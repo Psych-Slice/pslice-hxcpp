@@ -1,6 +1,4 @@
 obj
-bin
-lib
 project/cppia_bin
 test/ndlls/cpp
 test/ndlls/cpp64
@@ -18,11 +16,9 @@ test/extern-lib/gen-externs
 test/cffi/project/ndll
 test/snippets/messagebox/cpp
 test/haxe/gc/big.txt
-hxcpp.n
 .DS_Store
 
 *.swp
-*.exe
 *.pdb
 *.ilk
 
